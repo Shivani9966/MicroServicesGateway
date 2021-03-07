@@ -1,0 +1,9 @@
+E:\Gateway\Final Assignment\MicroServicesTraining\UserEntities\bin\Debug\netcoreapp3.1\UserEntities.deps.json
+E:\Gateway\Final Assignment\MicroServicesTraining\UserEntities\bin\Debug\netcoreapp3.1\UserEntities.dll
+E:\Gateway\Final Assignment\MicroServicesTraining\UserEntities\bin\Debug\netcoreapp3.1\UserEntities.pdb
+E:\Gateway\Final Assignment\MicroServicesTraining\UserEntities\obj\Debug\netcoreapp3.1\UserEntities.csprojAssemblyReference.cache
+E:\Gateway\Final Assignment\MicroServicesTraining\UserEntities\obj\Debug\netcoreapp3.1\UserEntities.AssemblyInfoInputs.cache
+E:\Gateway\Final Assignment\MicroServicesTraining\UserEntities\obj\Debug\netcoreapp3.1\UserEntities.AssemblyInfo.cs
+E:\Gateway\Final Assignment\MicroServicesTraining\UserEntities\obj\Debug\netcoreapp3.1\UserEntities.csproj.CoreCompileInputs.cache
+E:\Gateway\Final Assignment\MicroServicesTraining\UserEntities\obj\Debug\netcoreapp3.1\UserEntities.dll
+E:\Gateway\Final Assignment\MicroServicesTraining\UserEntities\obj\Debug\netcoreapp3.1\UserEntities.pdb
